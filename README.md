@@ -1,6 +1,6 @@
 # Hi, I'm Ines 👋
 
-**Flutter Engineer** with 2+ years of experience building cross-platform mobile apps. Software Engineering graduate from INSAT.
+**Software Engineer specialized in mobile development**, working with Flutter. 2+ years of experience building cross-platform mobile apps. Software Engineering graduate from INSAT.
 
 - 📱 I build and ship Flutter apps for Android and iOS
 - 🧱 I care about clean architecture and maintainable code
