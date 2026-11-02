@@ -19,5 +19,5 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=inesachour&theme=dark&include_all_commits=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inesachour&theme=dark&layout=compact)
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=inesachour&theme=dark&include_all_commits=true&count_private=true)
+![Top languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=inesachour&theme=dark&layout=compact)
